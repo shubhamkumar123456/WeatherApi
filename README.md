@@ -3,6 +3,10 @@
 
 Weather Api
 
+# Modules
+
+express.json
+
 
 ## Current Weather Conditions
 By City
@@ -24,3 +28,5 @@ simply run npm install in your vs code terminal
 Fahrenheit (OpenWeatherMap API - imperial)
 Celsius (OpenWeatherMap API - metric)
 Kelvin (OpenWeatherMap API - default)
+
+
